@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gaiden-wrapper">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/wrapper/gaiden-wrapper.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
